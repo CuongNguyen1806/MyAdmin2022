@@ -1,0 +1,201 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyAdmin2022.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyAdmin2022.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Content\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Content\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Content\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Content\\images\\admin-logo.png",
+      "PackagePath": "staticwebassets\\Content\\images\\admin-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Content\\images\\avatar.png",
+      "PackagePath": "staticwebassets\\Content\\images\\avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Content\\images\\carosel\\1.png",
+      "PackagePath": "staticwebassets\\Content\\images\\carosel\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Content\\images\\carosel\\2.png",
+      "PackagePath": "staticwebassets\\Content\\images\\carosel\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Content\\images\\carosel\\3.png",
+      "PackagePath": "staticwebassets\\Content\\images\\carosel\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Content\\images\\carosel\\4.png",
+      "PackagePath": "staticwebassets\\Content\\images\\carosel\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Content\\images\\carosel\\5.png",
+      "PackagePath": "staticwebassets\\Content\\images\\carosel\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Content\\images\\icons\\account-icon.png",
+      "PackagePath": "staticwebassets\\Content\\images\\icons\\account-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Content\\images\\icons\\article-icon.png",
+      "PackagePath": "staticwebassets\\Content\\images\\icons\\article-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Content\\images\\icons\\contact-icon.png",
+      "PackagePath": "staticwebassets\\Content\\images\\icons\\contact-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Content\\images\\icons\\home-icon.png",
+      "PackagePath": "staticwebassets\\Content\\images\\icons\\home-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Content\\images\\icons\\picture-icon.png",
+      "PackagePath": "staticwebassets\\Content\\images\\icons\\picture-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Content\\images\\icons\\product-icon.png",
+      "PackagePath": "staticwebassets\\Content\\images\\icons\\product-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Content\\images\\icons\\service-icon.png",
+      "PackagePath": "staticwebassets\\Content\\images\\icons\\service-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Content\\images\\icons\\setting-icon.png",
+      "PackagePath": "staticwebassets\\Content\\images\\icons\\setting-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Content\\images\\icons\\video-icon.png",
+      "PackagePath": "staticwebassets\\Content\\images\\icons\\video-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Content\\images\\no-image.png",
+      "PackagePath": "staticwebassets\\Content\\images\\no-image.png"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Content\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\Content\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Content\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Content\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Content\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Content\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Content\\style.css",
+      "PackagePath": "staticwebassets\\Content\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Scripts\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Scripts\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Scripts\\jquery-3.0.0.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-3.0.0.js"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Scripts\\jquery.blinklink.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.blinklink.js"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Scripts\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Scripts\\jquery.nicescroll.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.nicescroll.js"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Scripts\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Scripts\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Scripts\\popper.js",
+      "PackagePath": "staticwebassets\\Scripts\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\Scripts\\script.js",
+      "PackagePath": "staticwebassets\\Scripts\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\article-list.html",
+      "PackagePath": "staticwebassets\\article-list.html"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\picture-list.html",
+      "PackagePath": "staticwebassets\\picture-list.html"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\product-category.html",
+      "PackagePath": "staticwebassets\\product-category.html"
+    },
+    {
+      "Id": "C:\\Users\\cuong.nguyenvan\\Pictures\\SourceCode\\MyAdmin2022-Full\\MyAdmin2022\\MyAdmin2022\\wwwroot\\video-edit.html",
+      "PackagePath": "staticwebassets\\video-edit.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MyAdmin2022.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MyAdmin2022.props",
+      "PackagePath": "build\\MyAdmin2022.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MyAdmin2022.props",
+      "PackagePath": "buildMultiTargeting\\MyAdmin2022.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MyAdmin2022.props",
+      "PackagePath": "buildTransitive\\MyAdmin2022.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

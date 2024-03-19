@@ -1,0 +1,134 @@
+﻿<!-- Thanh điều hướng -->
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#">Bàn Làm Việc</a></li>
+        <li class="breadcrumb-item"><a href="#">Thể Loại Tài Khoản</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Tài Khoản</li>
+    </ol>
+</nav>
+<!-- Nội dung chính -->
+<section class="category-page">
+    <div class="row">
+        <div class="col-lg-3 col-12 left">
+            <header>
+                <i class="fa fa-folder icon"></i>
+                <h4>Danh Sách Thể Loại</h4>
+                <div class="clearfix"></div>
+            </header>
+            <content>
+                <select size="20" class="form-control select-category-main">
+                    <option value="value">text</option>
+                </select>
+            </content>
+        </div>
+        <div class="col-lg-9 col-12 right">
+            <header>
+                <i class="fa fa-folder icon"></i>
+                <h4>Danh Sách Thể Loại</h4>
+                <a class="btn delete-btn" href="#">
+                    <i class="fa fa-trash"></i>
+                </a>
+                <a class="btn add-btn" href="#">
+                    <i class="fa fa-plus-circle"></i>
+                </a>
+                <div class="clearfix"></div>
+            </header>
+            <content>
+                <div class="accordion" id="accordion-main">
+                    <div class="card">
+                        <div class="card-header">
+                            <h2 class="mb-0">
+                                <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne">
+                                    <i class="fa fa-caret-right"></i>
+                                    Thông tin cơ bản
+                                </button>
+                            </h2>
+                        </div>
+
+                        <div id="collapseOne" class="collapse show" data-parent="#accordion-main">
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col-12 col-lg-2">
+                                        Mã số:
+                                    </div>
+                                    <div class="col-12 col-lg-2">
+                                        <input type="text" class="form-control form-control-sm" />
+                                    </div>
+                                    <div class="col-12 col-lg-1">
+                                        Vị trí:
+                                    </div>
+                                    <div class="col-12 col-lg-1">
+                                        <input type="text" class="form-control form-control-sm" />
+                                    </div>
+                                    <div class="col-12 col-lg-1">
+                                        Code:
+                                    </div>
+                                    <div class="col-12 col-lg-1">
+                                        <input type="text" class="form-control form-control-sm" />
+                                    </div>
+                                    <div class="col-12 col-lg-4">
+                                        <small class="font-italic">(Vị trí và code được phép để trống)</small>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-12 col-lg-2">
+                                        Tiêu đề:
+                                    </div>
+                                    <div class="col-12 col-lg-10">
+                                        <input type="text" class="form-control form-control-sm" />
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-12 col-lg-2">
+                                        Mô tả:
+                                    </div>
+                                    <div class="col-12 col-lg-10">
+                                        <textarea class="form-control form-control-sm"></textarea>
+                                    </div>
+                                </div>
+                                <div class="row avatar-container">
+                                    <div class="col-12 col-lg-2">
+                                        Hình đại diện:
+                                    </div>
+                                    <div class="col-12 col-lg-3">
+                                        <div class="avatar-box">
+                                            <a class="close" href="#">
+                                                <i class="fa fa-times-circle"></i>
+                                            </a>
+                                            <img class="img-fluid img-preview" src="Content/images/avatar.png" />
+                                            <input type="file" class="img-upload form-control form-control-sm" />
+                                        </div>
+                                    </div>
+                                    <div class="col-12 col-lg-7 avatar-link">
+                                        <div class="input-group input-group-sm link-box">
+                                            <input type="text" class="form-control">
+                                            <div class="input-group-append">
+                                                <button class="btn btn-outline-secondary" type="button">&times;</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header">
+                            <h2 class="mb-0">
+                                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo">
+                                    <i class="fa fa-caret-right"></i>
+                                    Nội dung chi tiết
+                                </button>
+                            </h2>
+                        </div>
+
+                        <div id="collapseTwo" class="collapse" data-parent="#accordion-main">
+                            <div class="card-body p-0">
+                                <textarea class="form-control editor"></textarea>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </content>
+        </div>
+    </div>
+</section>

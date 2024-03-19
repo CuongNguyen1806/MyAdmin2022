@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MyAdmin2022.props" />
+</Project>
