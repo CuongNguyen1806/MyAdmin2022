@@ -1,4 +1,4 @@
-﻿@model List<Article>
+﻿@model List<Contact>
 
 <!-- Thanh điều hướng -->
 <nav aria-label="breadcrumb">
@@ -43,36 +43,36 @@
                         <a class="close" href="#">
                             <i class="fa fa-times-circle"></i>
                         </a>
-                        <a data-fancybox="gallery" href="@item.Avatar">
-                            <img class="img-fluid img-preview" src="@item.Avatar" />
+                        <a data-fancybox="gallery" href="@item.FullName">
+                            <img class="img-fluid img-preview" src="@item.ApproveBy" />
                         </a>
                         <input type="file" class="img-upload form-control form-control-sm" />
                     </div>
                 </td>
                 <td class="align-middle">
-                    <b>@item.Title</b>
+                    <b>@item.Address</b>
                     <br />
-                    Mã số: <b>@item.ArticleId</b>
+                    Mã số: <b>@item.Content</b>
                     <br />
-                    Thể loại: <b>@(item.ArticleCategory != null ? item.ArticleCategory.Title : string.Empty)</b>
+                    Thể loại: <b>@(item.ApproveByNavigation != null ? item.Address : string.Empty)</b>
                 </td>
                 <td class="align-middle">
-                    @item.CreateBy
+                    @item.ApproveBy
                     <br />
                     @item.CreateTime.Value.ToString("dd/MM/yyyy")
                     <br />
                     @item.CreateTime.Value.ToString("HH:mm")
                 </td>
                 <td class="align-middle">
-                    <a class="btn btn-secondary btn-sm mb-2" asp-route="AdminArticleDetail" asp-route-id="@item.ArticleId">
+                    <a class="btn btn-secondary btn-sm mb-2" asp-route="AdminArticleDetail" asp-route-id="@item.ContactId">
                         <i class="fa fa-plus"></i>
                         Xem
                     </a>
-                    <a class="btn btn-primary btn-sm btn-block" asp-route="AdminArticleDetail" asp-route-id="@item.ArticleId">
+                    <a class="btn btn-primary btn-sm btn-block" asp-route="AdminArticleDetail" asp-route-id="@item.ContactId">
                         <i class="fa fa-edit"></i>
                         Sửa
                     </a>
-                    <a class="btn btn-danger btn-sm btn-block" asp-route="AdminArticleDelete" asp-route-id="@item.ArticleId">
+                    <a class="btn btn-danger btn-sm btn-block" asp-route="AdminArticleDelete" asp-route-id="@item.ContactId">
                         <i class="fa fa-trash"></i>
                         Xóa
                     </a>

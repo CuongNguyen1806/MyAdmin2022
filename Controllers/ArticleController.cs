@@ -12,7 +12,7 @@ namespace MyAdmin2022.Controllers
             Environment = _environment;
         }
 
-        [Route("admin/tin-tuc", Name="AdminArticle")]
+        [Route("admin/tin-tuc", Name = "AdminArticle")]
         public IActionResult Index()
         {
             DBContext db = new DBContext();
