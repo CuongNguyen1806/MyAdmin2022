@@ -13,14 +13,22 @@ namespace MyAdmin2022.Controllers
         }
 
         [Route("admin/tin-tuc", Name = "AdminArticle")]
-        public IActionResult Index()
+        public IActionResult Index( int page = 1)
         {
             DBContext db = new DBContext();
+            int pageSize = 5;
             var data = db.Articles
                          .Include(x => x.ArticleCategory)
                          .OrderByDescending(x => x.CreateTime)
-                         .Take(20)
+                         .Skip((page - 1) * pageSize)
+                         .Take(pageSize)
                          .ToList();
+            int totalItems = db.Articles.Count();
+            int totalPages = (int)Math.Ceiling((double)totalItems / pageSize);
+
+            ViewBag.TotalPages = totalPages;
+            ViewBag.PageNumber = page;
+
             return View(data);
         }
 
